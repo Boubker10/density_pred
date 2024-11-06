@@ -1,0 +1,11 @@
+2024-11-06 17:49:57,155 INFO Logger configuré avec succès.
+2024-11-06 17:51:41,457 INFO Modèle K - Moyenne RMSE: 8.807519332275616, Moyenne R2: 0.7805681534201994
+2024-11-06 17:51:41,457 INFO Modèle K - Best Parameters (moyenne sur les replis): {'learning_rate': 0.10200000000000001, 'max_depth': 5.4, 'n_estimators': 110.0}
+2024-11-06 17:51:41,467 INFO Modèle sauvegardé dans models/modelK.pkl
+2024-11-06 17:53:16,899 INFO Modèle L - Moyenne RMSE: 8.476282260385782, Moyenne R2: 0.8186501781846183
+2024-11-06 17:53:16,899 INFO Modèle L - Best Parameters (moyenne sur les replis): {'learning_rate': 0.12, 'max_depth': 5.0, 'n_estimators': 50.0}
+2024-11-06 17:53:16,902 INFO Modèle sauvegardé dans models/modelL.pkl
+2024-11-06 17:55:04,958 INFO Modèle J - Moyenne RMSE: 6.260889259279716, Moyenne R2: 0.9604734448290339
+2024-11-06 17:55:04,959 INFO Modèle J - Best Parameters (moyenne sur les replis): {'learning_rate': 0.2, 'max_depth': 7.0, 'n_estimators': 200.0}
+2024-11-06 17:55:04,961 INFO Modèle sauvegardé dans models/modelJ.pkl
+2024-11-06 17:55:04,981 INFO Les résultats des modèles ont été enregistrés dans model_results.csv
